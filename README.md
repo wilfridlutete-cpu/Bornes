@@ -45,14 +45,19 @@ export CSV des bornes filtrées, et dans chaque fiche des liens vers l'itinérai
 | `OPERATEURS.md` | Les opérateurs présents à Bruxelles et le cadre des concessions. |
 | `CLAUDE.md` | Contexte du projet pour Claude. |
 
-## Mise en ligne en 5 minutes (GitHub Pages, gratuit)
+## En ligne
 
-1. Créez un compte sur github.com puis un dépôt **public**, par exemple `bornes-belgique`.
-2. Envoyez ces fichiers dans le dépôt (bouton *Add file → Upload files*, en gardant les dossiers).
-3. *Settings → Actions → General* : cochez **Read and write permissions**, puis *Save*.
-4. Onglet *Actions* → **Mise à jour des données** → *Run workflow*. Attendez 5 à 15 minutes : le dossier `data/` apparaît.
-5. *Settings → Pages* : *Source = Deploy from a branch*, branche `main`, dossier `/ (root)`.
-   Le site est en ligne à `https://<votre-compte>.github.io/bornes-belgique/`.
+**https://wilfridlutete-cpu.github.io/bornes/** — publié par GitHub Pages depuis ce dépôt (branche `main`, dossier racine).
+Le projet est aussi présenté dans le portfolio : https://wilfridlutete-cpu.github.io/
+
+La collecte tourne chaque nuit vers 4 h (heure belge) ; on peut la relancer dans *Actions → Mise à jour des données → Run workflow*.
+
+## Réutiliser le projet
+
+1. Cliquez sur **Fork** (ou téléchargez le dépôt) dans votre compte GitHub.
+2. *Settings → Actions → General* : cochez **Read and write permissions**, puis *Save*.
+3. *Settings → Pages* : *Source = Deploy from a branch*, branche `main`, dossier `/ (root)`.
+4. Onglet *Actions* → **Mise à jour des données** → *Run workflow*.
 
 ## Tester sur votre ordinateur
 

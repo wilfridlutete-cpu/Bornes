@@ -1,7 +1,7 @@
 # Contexte du projet pour Claude
 
 Projet : carte publique et gratuite des bornes de recharge pour véhicules électriques en Belgique (Bruxelles, Flandre, Wallonie).
-En ligne : https://wilfridlutete-cpu.github.io/bornes/ (dossier bornes/ du dépôt du portfolio).
+En ligne : https://wilfridlutete-cpu.github.io/bornes/ (dépôt séparé wilfridlutete-cpu/bornes, GitHub Pages ; lien depuis le portfolio wilfridlutete-cpu.github.io).
 
 ## Règles
 - Tout reste gratuit et sans serveur : site statique sur GitHub Pages, collecte par GitHub Actions.
