@@ -1,22 +1,22 @@
 {
-  "genere_le": "2026-10-16T02:04:49Z",
-  "total": 7189,
-  "points": 27199,
+  "genere_le": "2026-10-17T07:05:52Z",
+  "total": 7202,
+  "points": 27225,
   "par_source": {
     "Bruxelles Mobilité": 1752,
-    "OpenStreetMap": 5437
+    "OpenStreetMap": 5450
   },
   "par_region": {
     "Bruxelles-Capitale": 1967,
     "Flandre": 4522,
-    "Wallonie": 700
+    "Wallonie": 713
   },
   "par_classe": {
     "lente": 1385,
     "acceleree": 1241,
     "rapide": 220,
     "inconnue": 4053,
-    "ultra": 290
+    "ultra": 303
   },
   "par_reseau": {
     "Non renseigné": 2044,
@@ -27,8 +27,8 @@
     "Blue Corner": 198,
     "DATS 24 (Colruyt)": 144,
     "Lidl": 107,
+    "Electra": 73,
     "EVBox": 72,
-    "Electra": 60,
     "Mobility Plus": 52,
     "Shell Recharge": 48,
     "Mobiflow": 46,
