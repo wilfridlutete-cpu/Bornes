@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-11-08T09:07:51Z",
-  "total": 7290,
-  "points": 26540,
+  "genere_le": "2026-11-09T10:27:27Z",
+  "total": 7293,
+  "points": 26545,
   "par_source": {
     "Bruxelles Mobilité": 1752,
-    "OpenStreetMap": 5538
+    "OpenStreetMap": 5541
   },
   "par_region": {
-    "Bruxelles-Capitale": 1967,
+    "Bruxelles-Capitale": 1969,
     "Flandre": 4596,
-    "Wallonie": 727
+    "Wallonie": 728
   },
   "par_classe": {
     "lente": 1386,
     "acceleree": 1241,
     "rapide": 222,
-    "inconnue": 4080,
+    "inconnue": 4083,
     "ultra": 361
   },
   "par_reseau": {
@@ -23,7 +23,7 @@
     "Allego": 1059,
     "TotalEnergies": 1026,
     "EnergyVision": 848,
-    "ENGIE Vianeo": 285,
+    "ENGIE Vianeo": 287,
     "Blue Corner": 197,
     "DATS 24 (Colruyt)": 146,
     "Electra": 121,
@@ -349,6 +349,7 @@
     "ZEborne": 1,
     "commune": 1,
     "Driveco": 1,
+    "B&B De Patuljak": 1,
     "Dats": 1
   }
 }
