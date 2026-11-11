@@ -1,32 +1,32 @@
 {
-  "genere_le": "2026-11-09T10:27:27Z",
-  "total": 7293,
-  "points": 26545,
+  "genere_le": "2026-11-11T09:34:37Z",
+  "total": 7299,
+  "points": 26564,
   "par_source": {
     "Bruxelles Mobilité": 1752,
-    "OpenStreetMap": 5541
+    "OpenStreetMap": 5547
   },
   "par_region": {
     "Bruxelles-Capitale": 1969,
-    "Flandre": 4596,
-    "Wallonie": 728
+    "Flandre": 4599,
+    "Wallonie": 731
   },
   "par_classe": {
     "lente": 1386,
     "acceleree": 1241,
     "rapide": 222,
-    "inconnue": 4083,
-    "ultra": 361
+    "inconnue": 4088,
+    "ultra": 362
   },
   "par_reseau": {
-    "Non renseigné": 2054,
+    "Non renseigné": 2057,
     "Allego": 1059,
-    "TotalEnergies": 1026,
+    "TotalEnergies": 1028,
     "EnergyVision": 848,
     "ENGIE Vianeo": 287,
     "Blue Corner": 197,
     "DATS 24 (Colruyt)": 146,
-    "Electra": 121,
+    "Electra": 122,
     "Lidl": 107,
     "EVBox": 73,
     "Mobility Plus": 52,
