@@ -3102,7 +3102,7 @@ OpenStreetMap,node/9772335027,,,,Non renseigné,Flandre,Merchtem,,,,non,inconnue
 OpenStreetMap,node/9772335028,,,,Non renseigné,Flandre,Merchtem,,,,non,inconnue,,,1,Voiture,,,,,,,non,,50.94614,4.246836
 OpenStreetMap,node/9776386089,,,Bluecorner,Blue Corner,Flandre,Maasmechelen,,,,non,inconnue,AC,Type 2|Prise domestique,6,Voiture,,,,,,,non,,50.997188,5.706534
 OpenStreetMap,node/9779596115,,,,Non renseigné,Flandre,Essen,,,,non,inconnue,,,,Vélo,,,,,,,non,,51.457828,4.440814
-OpenStreetMap,node/9779866716,,,,Non renseigné,Flandre,Leuven,,,,non,inconnue,,,2,Voiture,,,,,,,non,,50.869029,4.707148
+OpenStreetMap,node/9779866716,,,,Non renseigné,Flandre,Leuven,,,,non,inconnue,AC,Type 2,2,Voiture,,,,,,,non,,50.869029,4.707148
 OpenStreetMap,node/9779884717,,,,Non renseigné,Flandre,Leuven,,,,non,inconnue,,,2,Voiture,,,,,,,non,,50.869055,4.707271
 OpenStreetMap,node/9780903883,,,Smoov,Smoov,Flandre,Tielt,,,,non,inconnue,AC,Type 2,2,Voiture,oui,,Badge RFID,,yes,24/7,oui,,50.990965,3.331006
 OpenStreetMap,node/9782121378,,,Allego,Allego,Flandre,Hasselt,,,11.0,non,lente,AC,Type 2,2,Voiture,oui,,,,yes,,non,,50.917493,5.251108
