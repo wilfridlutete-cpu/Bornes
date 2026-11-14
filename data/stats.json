@@ -1,7 +1,7 @@
 {
-  "genere_le": "2026-11-13T09:55:11Z",
+  "genere_le": "2026-11-14T09:05:41Z",
   "total": 7299,
-  "points": 26564,
+  "points": 26567,
   "par_source": {
     "Bruxelles Mobilité": 1752,
     "OpenStreetMap": 5547
@@ -19,8 +19,8 @@
     "ultra": 362
   },
   "par_reseau": {
-    "Non renseigné": 2057,
-    "Allego": 1059,
+    "Non renseigné": 2058,
+    "Allego": 1058,
     "TotalEnergies": 1028,
     "EnergyVision": 848,
     "ENGIE Vianeo": 287,
