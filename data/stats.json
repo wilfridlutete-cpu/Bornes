@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-11-20T10:28:37Z",
-  "total": 7317,
-  "points": 26648,
+  "genere_le": "2026-11-21T09:58:45Z",
+  "total": 7320,
+  "points": 26339,
   "par_source": {
     "Bruxelles Mobilité": 1752,
-    "OpenStreetMap": 5565
+    "OpenStreetMap": 5568
   },
   "par_region": {
     "Bruxelles-Capitale": 1970,
-    "Flandre": 4618,
+    "Flandre": 4621,
     "Wallonie": 729
   },
   "par_classe": {
     "lente": 1389,
-    "acceleree": 1243,
+    "acceleree": 1244,
     "rapide": 222,
-    "inconnue": 4099,
+    "inconnue": 4101,
     "ultra": 364
   },
   "par_reseau": {
@@ -23,9 +23,9 @@
     "Allego": 1059,
     "TotalEnergies": 1029,
     "EnergyVision": 848,
-    "ENGIE Vianeo": 288,
+    "ENGIE Vianeo": 289,
     "Blue Corner": 197,
-    "DATS 24 (Colruyt)": 146,
+    "DATS 24 (Colruyt)": 147,
     "Electra": 120,
     "Lidl": 107,
     "EVBox": 73,
@@ -36,7 +36,7 @@
     "IONITY": 42,
     "D’Ieteren Energy": 41,
     "Tesla": 41,
-    "Sparki": 39,
+    "Sparki": 40,
     "Smappee": 37,
     "Q8": 37,
     "Blink Charging": 35,
