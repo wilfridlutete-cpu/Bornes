@@ -2026,7 +2026,6 @@ OpenStreetMap,node/5204008141,,,Smoov,Smoov,Flandre,Turnhout,,,,non,inconnue,,,2
 OpenStreetMap,node/5204008142,,,Smoov,Smoov,Flandre,Turnhout,,,,non,inconnue,,,2,Voiture,,,,,yes,,non,,51.313019,4.944605
 OpenStreetMap,node/5204008143,,,Smoov,Smoov,Flandre,Turnhout,,,,non,inconnue,,,2,Voiture,oui,,,,yes,,non,,51.323103,4.961015
 OpenStreetMap,node/5204008144,,,Smoov Allego,Allego,Flandre,Oud-Turnhout,,,,non,inconnue,,,2,Voiture,,,,,yes,,non,,51.316421,4.982544
-OpenStreetMap,node/5204008146,,,Smoov Allego,Allego,Flandre,Brecht,,,,non,inconnue,,,2,Voiture,,,,,,,non,,51.354111,4.634146
 OpenStreetMap,node/5204008147,,,Allego,Allego,Flandre,Geel,,,,non,inconnue,,,2,Voiture,oui,,,,yes,,non,,51.162383,4.993599
 OpenStreetMap,node/5204008148,,,Allego,Allego,Flandre,Dessel,,,11.0,non,lente,AC,Type 2,2,Voiture,,,,,yes,,non,,51.239083,5.11213
 OpenStreetMap,node/5204008149,,,Allego,Allego,Flandre,Turnhout,,,,non,inconnue,,,2,Voiture,,,,,yes,,non,,51.320383,4.938802
@@ -6226,7 +6225,7 @@ OpenStreetMap,way/1126463850,,,,Non renseigné,Flandre,Geraardsbergen,,,,non,inc
 OpenStreetMap,way/1130931536,,,,Non renseigné,Flandre,Geraardsbergen,,,,non,inconnue,,,2,Voiture,,,,,,,non,,50.821597,3.89559
 OpenStreetMap,way/1172770665,,,DATS 24,DATS 24 (Colruyt),Flandre,Heist-op-den-Berg,,,,non,inconnue,AC,Type 2,2,Voiture,oui,,,non,customers,,non,,51.071585,4.699745
 OpenStreetMap,way/1181137316,,,,Non renseigné,Flandre,Laakdal,,,,non,inconnue,,,44,Voiture,non,,,,private,,non,,51.096724,5.087125
-OpenStreetMap,way/1192621619,,,E-Flux,E-Flux,Flandre,Brecht,,,,non,inconnue,,,2,Voiture,oui,,Carte bancaire,non,permit,,non,,51.351115,4.643698
+OpenStreetMap,way/1192621619,,,E-Flux,E-Flux,Flandre,Brecht,,,,non,inconnue,,,2,Voiture,oui,,Carte bancaire,non,permit,,non,,51.351101,4.643701
 OpenStreetMap,way/1194711736,,,ETAP,ETAP,Flandre,Malle,,,,non,inconnue,,,15,Voiture,oui,,Carte bancaire,,yes,,non,,51.299476,4.710405
 OpenStreetMap,way/1194712891,,,GET,GET,Flandre,Malle,,,,non,inconnue,,,5,Voiture,,,,,,,non,,51.298184,4.709516
 OpenStreetMap,way/1205142960,,,,Non renseigné,Flandre,Landen,,,,non,inconnue,,,2,Voiture,,,,,yes,,non,,50.747186,5.080604
@@ -6590,6 +6589,7 @@ OpenStreetMap,way/1577415339,,,Electra,Electra,Flandre,Antwerpen,,,400.0,non,ult
 OpenStreetMap,way/1577640126,,,TotalEnergies,TotalEnergies,Flandre,Diepenbeek,,,400.0,non,ultra,DC,CCS,4,Voiture,oui,,,,,,non,,50.894119,5.418347
 OpenStreetMap,way/1582318676,,,Q8 Electric Lille,Q8,Flandre,Lille,,,400.0,non,ultra,DC,CCS,4,Voiture,,,,,,,non,,51.252251,4.814068
 OpenStreetMap,way/1582819598,,,Electra,Electra,Flandre,Brecht,,,50.0,non,rapide,DC,CCS,4,Voiture,oui,,,,,,non,,51.348422,4.667453
+OpenStreetMap,way/1583272077,,,TotalEnergies,TotalEnergies,Flandre,Brecht,,,400.0,non,ultra,DC,CCS,4,Voiture,oui,,,,,,non,,51.357177,4.639722
 OpenStreetMap,node/3002112311,,Nivelles-Sud Supercharger,Tesla,Tesla,Wallonie,Nivelles,Chaussée de Mons 22,,150.0,non,ultra,DC,CCS|Tesla,12,Voiture,oui,,,non,customers,24/7,oui,,50.588808,4.308028
 OpenStreetMap,node/3470476488,,,ZE-MO,ZE-MO,Wallonie,Viroinval,,,,non,inconnue,,,,Voiture,,,,,,,non,,50.074039,4.548029
 OpenStreetMap,node/3478789457,,e-mobile,esa,esa,Wallonie,Ellezelles,,,,non,inconnue,,,,Voiture,,,,,,,non,,50.694617,3.721798
@@ -7182,7 +7182,6 @@ OpenStreetMap,node/13985404045,,,Lidl,Lidl,Wallonie,Florennes,,,50.0,non,rapide,
 OpenStreetMap,node/13989756302,,Tesla Supercharger,Tesla,Tesla,Wallonie,Marche-en-Famenne,,,,non,inconnue,,,,Voiture,,,,,,,non,,50.223252,5.329817
 OpenStreetMap,node/14020415624,,,Pharmacie Denis,Pharmacie Denis,Wallonie,Arlon,,,,non,inconnue,,,,Voiture,oui,,,,,,non,,49.68628,5.799365
 OpenStreetMap,node/14020415625,,,Pharmacie Denis,Pharmacie Denis,Wallonie,Arlon,,,,non,inconnue,,,,Voiture,oui,,,,private,,non,,49.686267,5.799441
-OpenStreetMap,node/14070453901,,Fastned,Fastned,Fastned,Wallonie,Léglise,,,,non,inconnue,,,,Voiture,,,,,,,non,,49.804656,5.529746
 OpenStreetMap,node/14073610863,,,,Non renseigné,Wallonie,Florenville,,,,non,inconnue,,,,Voiture,oui,,,,,,non,,49.703432,5.327501
 OpenStreetMap,node/14074589554,,,,Non renseigné,Wallonie,Braine-le-Château,,,,non,inconnue,,,2,Voiture,,,,,no,,non,,50.682542,4.268909
 OpenStreetMap,node/14081745071,,,,Non renseigné,Wallonie,Durbuy,,,,non,inconnue,,,,Voiture,,,,,,,non,,50.376183,5.521066
@@ -7283,7 +7282,7 @@ OpenStreetMap,way/1507865051,,,DAT,DAT,Wallonie,Hannut,,,,non,inconnue,DC,CCS,2,
 OpenStreetMap,way/1510695262,,Ionity Baraque de Fraiture,Ionity,IONITY,Wallonie,Vielsalm,,,,non,inconnue,,,12,Voiture,oui,,,,,24/7,oui,,50.248222,5.739367
 OpenStreetMap,way/1534950222,,Philippeville - Burger King,Electra,Electra,Wallonie,Philippeville,Rue de France 57,,400.0,non,ultra,DC,CCS,10,Voiture,oui,,Application,,yes,24/7,oui,,50.196532,4.53397
 OpenStreetMap,way/1535494891,,Tesla Supercharger,Tesla,Tesla,Wallonie,Marche-en-Famenne,,,,non,inconnue,,,,Voiture,,,,,,,non,,50.22325,5.32981
-OpenStreetMap,way/1545353311,,,Fastned,Fastned,Wallonie,Léglise,,,,non,inconnue,,,,Voiture,oui,,,,,,non,,49.80469,5.529616
+OpenStreetMap,way/1545353311,,,Fastned,Fastned,Wallonie,Léglise,,,,non,inconnue,,,,Voiture,oui,,,,,,non,,49.804694,5.529616
 OpenStreetMap,way/1546769974,,"Supercharger Braine-l'Alleud, Belgium",Tesla,Tesla,Wallonie,Braine-l'Alleud,Chau. de Nivelles 300,,,non,inconnue,,,16,Voiture,,,,,,,non,,50.66156,4.380547
 OpenStreetMap,way/1569136267,,Jambes - Delhaize,Electra,Electra,Wallonie,Namur,,,150.0,non,ultra,DC,CCS,4,Voiture,oui,,Carte bancaire,,,,non,,50.462478,4.879807
 OpenStreetMap,way/1569136268,,Jambes - Delhaize,Electra,Electra,Wallonie,Namur,,,300.0,non,ultra,DC,CCS,4,Voiture,oui,,Carte bancaire,,,,non,,50.462538,4.879928
