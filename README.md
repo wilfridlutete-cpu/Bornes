@@ -19,7 +19,7 @@ Les doublons entre sources sont fusionnés automatiquement.
 - **Statistiques** : bornes par opérateur, par vitesse, par prise, par commune, puissance moyenne par opérateur, moyens de paiement.
 - **Liste** : tableau triable (puissance, opérateur, commune, distance) ; un clic place la borne sur la carte.
 
-**Fonds de plan** : plan OpenStreetMap, vue satellite (Esri), clair et sombre (CARTO).
+**Fonds de plan** : plan OpenStreetMap et vue satellite Esri.
 
 **Filtres**
 - Vitesse de recharge (lente, accélérée, rapide, ultra-rapide) et curseur de puissance minimale (7 à 300 kW)
@@ -37,9 +37,11 @@ export CSV des bornes filtrées, et dans chaque fiche des liens vers l'itinérai
 
 | Fichier | Rôle |
 | --- | --- |
-| `index.html` | Le géoportail. Un seul fichier, aucun serveur requis. |
+| `index.html` | La carte BelgoElect. |
+| `accueil.html`, `mobile.html`, `assets/` | Pages de présentation et ressources de BelgoElect. |
+| `data/bornes-local.js` | Copie du GeoJSON pour ouvrir la carte directement depuis un dossier. |
 | `scripts/fetch_bornes.py` | Collecte les bornes via l'API Overpass, rattache chaque borne à sa commune et écrit `data/`. Python 3.10+, sans dépendance. |
-| `data/bornes.geojson`, `data/bornes.csv`, `data/stats.json` | Données générées. Livrées avec les bornes de Bruxelles : la carte fonctionne dès la mise en ligne. |
+| `data/bornes.geojson`, `data/bornes.csv`, `data/stats.json` | Données publiées de la carte, export CSV et statistiques. |
 | `sources/evse_bruxelles.csv` | Copie du registre Bruxelles Mobilité, utilisée si son service en ligne ne répond pas. |
 | `.github/workflows/mise-a-jour-donnees.yml` | Relance la collecte chaque nuit et publie les nouvelles données. |
 | `OPERATEURS.md` | Les opérateurs présents à Bruxelles et le cadre des concessions. |
@@ -66,7 +68,7 @@ python scripts/fetch_bornes.py     # crée data/ (5 à 15 minutes)
 python -m http.server 8000         # puis ouvrez http://localhost:8000
 ```
 
-Sans le dossier `data/`, la page interroge OpenStreetMap en direct, pour Bruxelles uniquement.
+Si le jeu de données publié est absent ou incomplet, la carte interroge OpenStreetMap via Overpass pour les régions manquantes.
 
 ## À savoir sur la puissance affichée
 
@@ -92,7 +94,7 @@ La couverture bruxelloise d'OSM est bonne mais pas complète ; chaque correction
 - Code : MIT (voir `LICENSE`).
 - Données : © contributeurs OpenStreetMap, licence ODbL 1.0 ; Bruxelles Mobilité (data.mobility.brussels) ;
   Departement Mobiliteit en Openbare Werken (Vlaamse overheid). Citez ces sources en cas de réutilisation.
-- Imagerie satellite : © Esri et ses fournisseurs. Fonds clair et sombre : © CARTO.
+- Imagerie satellite : © Esri et ses fournisseurs.
 
 ## Corriger ou compléter les données
 
