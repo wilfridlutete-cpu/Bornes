@@ -1,15 +1,15 @@
 {
-  "genere_le": "2026-11-26T12:49:20Z",
+  "genere_le": "2026-11-27T11:36:29Z",
   "total": 7318,
-  "points": 26047,
+  "points": 26046,
   "par_source": {
     "Bruxelles Mobilité": 1752,
     "OpenStreetMap": 5566
   },
   "par_region": {
     "Bruxelles-Capitale": 1970,
-    "Flandre": 4620,
-    "Wallonie": 728
+    "Flandre": 4619,
+    "Wallonie": 729
   },
   "par_classe": {
     "lente": 1389,
@@ -19,9 +19,9 @@
     "ultra": 366
   },
   "par_reseau": {
-    "Non renseigné": 2069,
+    "Non renseigné": 2068,
     "Allego": 1057,
-    "TotalEnergies": 1030,
+    "TotalEnergies": 1031,
     "EnergyVision": 848,
     "ENGIE Vianeo": 290,
     "Blue Corner": 197,
