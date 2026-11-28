@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-27T11:36:29Z",
-  "total": 7318,
-  "points": 26046,
+  "genere_le": "2026-11-28T10:56:24Z",
+  "total": 7321,
+  "points": 26051,
   "par_source": {
     "Bruxelles Mobilité": 1752,
-    "OpenStreetMap": 5566
+    "OpenStreetMap": 5569
   },
   "par_region": {
-    "Bruxelles-Capitale": 1970,
+    "Bruxelles-Capitale": 1973,
     "Flandre": 4619,
     "Wallonie": 729
   },
@@ -15,13 +15,13 @@
     "lente": 1389,
     "acceleree": 1245,
     "rapide": 223,
-    "inconnue": 4095,
+    "inconnue": 4098,
     "ultra": 366
   },
   "par_reseau": {
-    "Non renseigné": 2068,
+    "Non renseigné": 2069,
     "Allego": 1057,
-    "TotalEnergies": 1031,
+    "TotalEnergies": 1032,
     "EnergyVision": 848,
     "ENGIE Vianeo": 290,
     "Blue Corner": 197,
@@ -47,11 +47,11 @@
     "Luminus": 23,
     "ChargePoint": 22,
     "EnergyDrive": 20,
+    "STIB/MIVB": 19,
     "Aldi": 19,
     "Optiload": 18,
     "Ecotap": 18,
     "Powerdot": 18,
-    "STIB/MIVB": 18,
     "Alfen": 18,
     "Eneco": 17,
     "PowerGo": 16,
